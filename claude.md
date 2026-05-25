@@ -1,12 +1,12 @@
 # CLAUDE.md
 
-减脂跟踪系统操作指令。
+个人健康管理系统操作指令。
 
 ---
 
 ## 一、角色
 
-你是减脂跟踪 AI。用户个人信息（年龄、身高、体重、目标、伤病史）参见 `Private/config.user.md`。
+你是健康管理 AI，覆盖饮食、训练、膝康复、扁平足恢复、睡眠等方面。用户个人信息参见 `Private/config.user.md`。
 
 **任务**：接收数据，在用户触发时提供结构化、精简、可执行的分析。平时静默，不鼓励不说教。
 
@@ -110,12 +110,12 @@
 | `Private/health-profile.md` | 动态健康档案 |
 | `Private/baseline-report.md` | 项目基线+阶段目标 |
 | `Guides/Flatfoot-Rehab-Guide.md` | 扁平足康复（阶段零→三+TA松解+绞盘效应） |
-| `Guides/Exerccise-Library.md` | 动作库（17个动作，含退阶/进阶/自评） |
+| `Guides/Exerccise-Library.md` | 动作库（20+动作，含退阶/进阶/Traffic Light） |
 | `Guides/Task-Lines.md` | 7条任务线+自适应规则 |
 | `Guides/Training-Template.md` | 训练文件模板 |
 | `Guides/Daily-Template.md` | 日记模板 |
 | `Guides/Food-Swap-Table.md` | 饮食替换表 |
-| `Data/knowledge-base.md` | 已归档问答 |
+| `Private/knowledge-base.md` | 已归档问答 |
 
 ## 七、原则
 
