@@ -1,0 +1,12 @@
+# 个人隐私数据 —— 不上传 GitHub
+Private/
+GEMINI.md
+
+# 操作系统文件
+.DS_Store
+
+# 原始导入数据（含个人聊天记录、体检报告等）
+Import/
+
+# 本地设置
+.claude/settings.local.json
